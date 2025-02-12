@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waicde.csgad.com/PFL/sitemap.xml.gz
